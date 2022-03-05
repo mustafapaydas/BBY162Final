@@ -1,11 +1,3 @@
-"""
-sayın kullanıcı eğer arama yapmak isterseniz arama fonksiyonuna .txt uzantılı dosyanızın ismini yazın eğer txt dosyanız
-yoksa lütfen aşağıdaki fonksiyonu çalıştırarak oluşturun programı kapattığınız anda dosyanız açılacaktır ha bide lütfen
-program ile aynı dizinde olsun. HAYIRLI UĞURLU
-OLSUN sayemde txt uzantılı dosyanız olacak
-Not : dosyalarımız iki tane veri alır eğer daha fazla isterseniz break komutlarını silin
-
-"""
 
 def yaz():
     isim_belirle = input("Lütfen Yeni Tabanımızın İsmini Belirleyelim : \n")
